@@ -1,1 +1,1 @@
-A pacman-like enviroment
+# nengo RL
